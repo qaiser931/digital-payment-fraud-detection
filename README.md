@@ -31,5 +31,5 @@ Fraud in digital payment and mobile wallet transactions (e.g., EasyPaisa/JazzCas
 4. Run all cells in order
 
 ## Contributions
-- [Har member yahan apna role likhein — e.g. "Alliya: EDA & visualization"]# digital-payment-fraud-detection
+- ["]# digital-payment-fraud-detection
 Fraud detection ML model for digital payments - Edversity Hackathon
